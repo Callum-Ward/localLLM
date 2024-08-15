@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8afe0ddc5d4a55d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leveraging Open-Source Language Models in Offline Environments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a64ff7d364e5554e",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ollama.md",
+                "file": "Leveraging Open-Source Language Models in Offline Environments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ollama.md",
+                "file": "Leveraging Open-Source Language Models in Offline Environments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ollama.md"
+                "file": "Leveraging Open-Source Language Models in Offline Environments.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c4bc9da12670df0",
+  "active": "d8afe0ddc5d4a55d",
   "lastOpenFiles": [
-    "Ollama.md"
+    "Ollama.md",
+    "Leveraging Open-Source Language Models in Offline Environments.md"
   ]
 }
